@@ -7,4 +7,5 @@ kaalo
 irish
 peas
 beans
-kale
+potates
+
