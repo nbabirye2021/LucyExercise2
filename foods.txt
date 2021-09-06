@@ -7,5 +7,4 @@ kaalo
 irish
 peas
 beans
-potates
-SUPERGHETT
+potatoes
